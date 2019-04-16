@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>State</key>
+		<string>UT</string>
+		<key>Tax</key>
+		<string>6.85</string>
+	</dict>
+	<dict>
+		<key>State</key>
+		<string>NV</string>
+		<key>Tax</key>
+		<string>8</string>
+	</dict>
+	<dict>
+		<key>State</key>
+		<string>TX</string>
+		<key>Tax</key>
+		<string>6.25</string>
+	</dict>
+	<dict>
+		<key>State</key>
+		<string>AL</string>
+		<key>Tax</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>State</key>
+		<string>CA</string>
+		<key>Tax</key>
+		<string>8.25</string>
+	</dict>
+</array>
+</plist>
